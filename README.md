@@ -1,1 +1,3 @@
 # TCG-Scrapers
+
+Readme soon
