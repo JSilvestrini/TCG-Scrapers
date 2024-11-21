@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This repository contains some scrapers that can be used to gather around 140,000 different trading cards from various card games. The main purpose of this was so I could have a dataset to create a GAN (Generative Adversarial Network) and learn more about PyTorch. 
+This repository contains some scrapers that can be used to gather around 140,000 trading cards from various card games. The main purpose of this was so I could have a dataset to create a GAN (Generative Adversarial Network) and learn more about PyTorch. 
+
+**Note:** Some scrapers consider a reprint a new card as long as it is in a different set than the original (Magic the Gathering is one of these).
 
 ## Contents
 
